@@ -3,7 +3,7 @@ Try out django
 
 ### to run 
 
-Activate virtual environment
+Activate virtual environment  
 `venv\Scripts\activate`
 
 Run the server  
