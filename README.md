@@ -6,7 +6,7 @@ Try out django
 Create the virtual environment  
 `python -m venv venv`
 
-Activate virtual environment  (Windows command)
+Activate virtual environment  (Windows command)  
 `venv\Scripts\activate`
 
 Install Django  
